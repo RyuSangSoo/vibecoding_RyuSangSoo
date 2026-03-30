@@ -37,6 +37,7 @@ tmp/
 temp/
 coverage/
 .tools/
+release/
 
 # JavaScript / TypeScript
 node_modules/
