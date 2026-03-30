@@ -1,0 +1,67 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Common caches / temp
+.cache/
+.tmp/
+tmp/
+temp/
+coverage/
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+.svelte-kit/
+.parcel-cache/
+.turbo/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Java / Kotlin / Gradle
+.gradle/
+out/
+
+# .NET
+bin/
+obj/
+
+# Rust
+target/
